@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>eureka-entity</module>
+        <module>eureka-interface</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
